@@ -1,0 +1,4 @@
+﻿Issue Type,Issue key,Issue id,Summary,Assignee,Assignee Id,Reporter,Reporter Id,Priority,Status,Resolution,Created,Updated,Due date
+Bug,SDQ-3,10007,Product images and prices differ from standard_user for visual_user,Richu Maria  Sijee,712020:0295009a-8874-440a-bbd8-f872db93bf69,Richu Maria  Sijee,712020:0295009a-8874-440a-bbd8-f872db93bf69,Medium,In Progress,,12-11-2026 19:23,13-11-2026 07:35,
+Bug,SDQ-2,10006,Product details page shows a different product than the one clicked for problem_user,Richu Maria  Sijee,712020:0295009a-8874-440a-bbd8-f872db93bf69,Richu Maria  Sijee,712020:0295009a-8874-440a-bbd8-f872db93bf69,Medium,In Progress,,12-11-2026 18:57,13-11-2026 07:31,
+Bug,SDQ-1,10005,Incorrect product images displayed for problem_user,Richu Maria  Sijee,712020:0295009a-8874-440a-bbd8-f872db93bf69,Richu Maria  Sijee,712020:0295009a-8874-440a-bbd8-f872db93bf69,Medium,In Progress,,12-11-2026 17:50,13-11-2026 08:03,
